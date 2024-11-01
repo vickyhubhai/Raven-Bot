@@ -1,4 +1,4 @@
-# Discord-Bot-Website-02
+# Raven Bot Dashboard
 
 # ScreenShots
 ![image](https://github.com/RayDev07/Discord-Bot-Website-02/assets/142141276/9be46880-4896-49a7-9500-032148b7ace7)
